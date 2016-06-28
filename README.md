@@ -7,8 +7,7 @@ In programming, logging is like journaling. It records a history of a running ap
 
 In programming, logging let's ust revisit our application as if it was running. It's a useful tool for tracking bugs, performance, and generally ensuring that our applications are chugging along.
 
-In this lesson, we're going to focus on the methods on the `console` object. We've already made use of perhaps the most popular of these methods, `console.log()`; but there are a few more tricks up `console`'s sleeve. Let's
-dive in!
+In this lesson, we're going to focus on the methods on the `console` object. We've already made use of perhaps the most popular of these methods, `console.log()`; but there are a few more tricks up `console`'s sleeve. Let's dive in!
 
 ![dive in](http://i.giphy.com/LlPGmmhr0GcKs.gif)
 
@@ -104,3 +103,5 @@ As with `console.error()`, we use `console.warn()` to indicate in our log histor
 ## Resources
 
 - [MDN: Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-logging'>JavaScript Logging</a> on Learn.co and start learning to code for free.</p>
